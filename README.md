@@ -11,8 +11,8 @@ second copy qa-theme-base.php and go to q2a/qa-include/ and replace this qa-them
 
 ## Usage
 after install go to q2a admin panel and go plugin tabs active 410permanently plugin and copy each link you want to response 410 atention for many urls you have to seprate each other with , character like this
-http://balamo.ir/q=1?test ,
-https://balamo.ir q=4
+https://balamo.ir/blog/ ,
+https://balamo.ir
 
 ## Authors 
 hassanzadeh.sd@gmail.com
