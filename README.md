@@ -18,4 +18,4 @@ https://balamo.ir
 hassanzadeh.sd@gmail.com
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU](http://www.gnu.org/licenses/gpl.html.)
