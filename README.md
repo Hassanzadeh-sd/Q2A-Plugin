@@ -14,8 +14,11 @@ after install go to q2a admin panel and go plugin tabs active 410permanently plu
 https://balamo.ir/blog/ ,
 https://balamo.ir
 
-## Authors 
-hassanzadeh.sd@gmail.com
+## Author
+
+* **Hassanzadeh Sajjad** - *personal website* - [MR](http://mrhassanzadeh.ir)
+
+- See also the list of [projects](https://github.com/Hassanzadeh-sd?tab=repositories)
 
 ## License
 [GNU](http://www.gnu.org/licenses/gpl.html.)
