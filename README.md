@@ -16,7 +16,7 @@ https://balamo.ir
 
 ## Author
 
-* **Hassanzadeh Sajjad** - *personal website* - [MR](http://mrhassanzadeh.ir)
+* **Sajjad Hassanzadeh** - *personal website* - [MR](http://mrhassanzadeh.ir)
 
 - See also the list of [projects](https://github.com/Hassanzadeh-sd?tab=repositories)
 
